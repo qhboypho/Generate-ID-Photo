@@ -1,0 +1,5 @@
+{
+  "name": "AI ID Photo Generator",
+  "description": "Instantly convert any facial photo into a professional ID picture. Our AI adds a white collared shirt, adjusts posture and gaze to be camera-facing, and replaces the background with a standard blue for a perfect, compliant ID photo.",
+  "requestFramePermissions": []
+}
